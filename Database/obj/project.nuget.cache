@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "RZNezdoLBgA=",
+  "success": false,
+  "projectFilePath": "C:\\Dotnet_Prac\\Assignment26\\Database\\Database.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'C:\\Users\\prasanth.ganta\\AppData\\Roaming\\NuGet\\nuget.org' doesn't exist.",
+      "libraryId": "NewtonSoft.Json"
+    }
+  ]
+}

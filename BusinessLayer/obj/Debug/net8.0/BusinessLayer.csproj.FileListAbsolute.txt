@@ -1,0 +1,11 @@
+C:\Dotnet_Prac\Assignment26\BusinessLayer\bin\Debug\net8.0\BusinessLayer.deps.json
+C:\Dotnet_Prac\Assignment26\BusinessLayer\bin\Debug\net8.0\BusinessLayer.dll
+C:\Dotnet_Prac\Assignment26\BusinessLayer\bin\Debug\net8.0\BusinessLayer.pdb
+C:\Dotnet_Prac\Assignment26\BusinessLayer\obj\Debug\net8.0\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dotnet_Prac\Assignment26\BusinessLayer\obj\Debug\net8.0\BusinessLayer.AssemblyInfoInputs.cache
+C:\Dotnet_Prac\Assignment26\BusinessLayer\obj\Debug\net8.0\BusinessLayer.AssemblyInfo.cs
+C:\Dotnet_Prac\Assignment26\BusinessLayer\obj\Debug\net8.0\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Dotnet_Prac\Assignment26\BusinessLayer\obj\Debug\net8.0\BusinessLayer.dll
+C:\Dotnet_Prac\Assignment26\BusinessLayer\obj\Debug\net8.0\refint\BusinessLayer.dll
+C:\Dotnet_Prac\Assignment26\BusinessLayer\obj\Debug\net8.0\BusinessLayer.pdb
+C:\Dotnet_Prac\Assignment26\BusinessLayer\obj\Debug\net8.0\ref\BusinessLayer.dll
